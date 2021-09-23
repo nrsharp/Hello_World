@@ -11,7 +11,7 @@ Use this space to explain how to run a program and what files are needed for it
 **Use this space to describe any files used for the project**
 
 ### Additional Documentation
-**NONE!**
+**NONE!** :grin:
 
 ### Verisoning
 **_If any changes are planned, state them here_**
