@@ -1,6 +1,5 @@
-# **HELLO WORLD**
-
-## Hello!
+# **Title**
+**HELLO WORLD**
 
 ## Description
 __My name is Nick, I like coding in Python becuase it's what I am most familiar with! I hope to become better at R so I like coding in that language as well.__
